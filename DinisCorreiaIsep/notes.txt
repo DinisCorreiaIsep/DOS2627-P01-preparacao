@@ -1,0 +1,3 @@
+Primeira linha: preparar o ambiente.
+Segunda linha: testar a toolbox.
+Terceira linha: guardar as evidências.
